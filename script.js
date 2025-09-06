@@ -50,10 +50,13 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: "Untitled",
-            path: "images/untitled13.jpg"
+            path: "images/untitled13.jpg",
+            // info: {
+            //     "": ""
+            // }
         },
     ];
-    
+
     const imageGrid = document.getElementById('image-grid');
     const imageOverlay = document.getElementById('image-overlay');
     const closeButton = document.querySelector('.close-button');
