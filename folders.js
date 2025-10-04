@@ -135,13 +135,24 @@ const folders = [
     name: "softblackwords",
     images: [
         {
-            title: "Untitled",
+            title: "Isso não é gótico",
             path: "images/softblackwords/isso_nao_e_gotico.png",
             info: {
                 "Isso não é gótico": "Isso é drogado.",
                 De: "YUNG EXU"
             }
         },
+        {
+            title: "Eu, Eu, Eu,",
+            path: "images/softblackwords/eu_eu_eu.jpg"
+        },        
+        {
+            title: "Eu, Eu, Eu,",
+            path: "images/softblackwords/alguem_que_chora.jpg",
+            info: {
+                De: "Lupe de Lupe"
+            }            
+        },        
     ]
   }
 ];
