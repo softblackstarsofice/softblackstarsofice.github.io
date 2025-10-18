@@ -147,12 +147,40 @@ const folders = [
             path: "images/softblackwords/eu_eu_eu.jpg"
         },        
         {
-            title: "Eu, Eu, Eu,",
+            title: "Alguém que chora",
             path: "images/softblackwords/alguem_que_chora.jpg",
             info: {
                 De: "Lupe de Lupe"
             }            
         },        
+        {
+            title: "Eu tamém amo você",
+            path: "images/softblackwords/eu_tambem_amo_voce.jpg",
+            info: {
+                De: "YUNG EXU"
+            }
+        },
+        {
+            title: "Infelizmente meus olhos não brilham",
+            path: "images/softblackwords/meus_olhos_nao_brilham.jpg",
+            info: {
+                De: "YUNG EXU"
+            }
+        },
+        {
+            title: "O meu nariz sangra pra caralho",
+            path: "images/softblackwords/o_meu_nariz_sangra_pra_caralho.jpg",
+            info: {
+                De: "YUNG EXU"
+            }
+        },
+        {
+            title: "Remédios pra dormir",
+            path: "images/softblackwords/remedios_pra_dormir.jpg",
+            info: {
+                De: "COPA"
+            }
+        },
     ]
   }
 ];
