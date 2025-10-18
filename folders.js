@@ -139,46 +139,56 @@ const folders = [
             path: "images/softblackwords/isso_nao_e_gotico.png",
             info: {
                 "Isso não é gótico": "Isso é drogado.",
-                De: "YUNG EXU"
+                De: "YUNG EXU",
+                Música: "key"
             }
         },
         {
             title: "Eu, Eu, Eu,",
-            path: "images/softblackwords/eu_eu_eu.jpg"
+            path: "images/softblackwords/eu_eu_eu.jpg",
+            info: {
+                De: "Tantão e os Fita",                
+                Música: "Tênis"
+            }            
         },        
         {
             title: "Alguém que chora",
             path: "images/softblackwords/alguem_que_chora.jpg",
             info: {
-                De: "Lupe de Lupe"
+                De: "Lupe de Lupe",                
+                Música: "Fogo-Fátuo"
             }            
         },        
         {
-            title: "Eu tamém amo você",
+            title: "Eu também amo você",
             path: "images/softblackwords/eu_tambem_amo_voce.jpg",
             info: {
-                De: "YUNG EXU"
+                De: "YUNG EXU",
+                Música: "djinns não são bons para trabalhos de amor"
             }
         },
         {
             title: "Infelizmente meus olhos não brilham",
             path: "images/softblackwords/meus_olhos_nao_brilham.jpg",
             info: {
-                De: "YUNG EXU"
+                De: "YUNG EXU",                
+                Música: "te dei uma parte de mim"
             }
         },
         {
             title: "O meu nariz sangra pra caralho",
             path: "images/softblackwords/o_meu_nariz_sangra_pra_caralho.jpg",
             info: {
-                De: "YUNG EXU"
+                De: "YUNG EXU",                
+                Música: "rotten"
             }
         },
         {
             title: "Remédios pra dormir",
             path: "images/softblackwords/remedios_pra_dormir.jpg",
             info: {
-                De: "COPA"
+                De: "COPA",                
+                Música: "ela tirou a propria vida"
             }
         },
     ]
