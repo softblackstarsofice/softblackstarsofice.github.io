@@ -191,6 +191,62 @@ const folders = [
                 Música: "ela tirou a propria vida"
             }
         },
+        {
+            title: "Adão e Eva",
+            path: "images/softblackwords/adao_e_eva.jpg",
+            info: {
+                De: "YUNG EXU",                
+                Música: "eu matei quem me amava"
+            }
+        },
+        {
+            title: "Como Fosse um Defunto",
+            path: "images/softblackwords/como_fosse_um_defunto.jpg",
+            info: {
+                De: "YUNG EXU",                
+                Música: "rotten"
+            }
+        },
+        {
+            title: "Minha Primeira Brisa",
+            path: "images/softblackwords/minha_primeira_brisa.jpg",
+            info: {
+                De: "YUNG EXU",                
+                Música: "garota neblina"
+            }
+        },
+        {
+            title: "Boqueta Duas Vez",
+            path: "images/softblackwords/boqueta_duas_vez.jpg",
+            info: {
+                De: "YUNG EXU",                
+                Música: "boqueta"
+            }
+        },
+        {
+            title: "Vai Piorar",
+            path: "images/softblackwords/vai_piorar.jpg",
+            info: {
+                De: "Tantão e os Fita",                
+                Música: "Piorou"
+            }
+        },
+        {
+            title: "Viva a Nicotina",
+            path: "images/softblackwords/viva_a_nicotina.jpg",
+            info: {
+                De: "YUNG EXU",                
+                Música: "key"
+            }
+        },
+        {
+            title: "Se Sentia Estranho",
+            path: "images/softblackwords/se_sentia_estranho.jpg",
+            info: {
+                De: "Adorável Clichê",                
+                Música: "Estranho"
+            }
+        },
     ]
   }
 ];
