@@ -247,6 +247,22 @@ const folders = [
                 Música: "Estranho"
             }
         },
+        {
+            title: "i don't miss you",
+            path: "images/softblackwords/i_dont_miss_you.jpg",
+            info: {
+                De: "bod [包家巷]",                
+                Música: "i don't miss u"
+            }
+        },
+        {
+            title: "i don't miss you (alt)",
+            path: "images/softblackwords/i_dont_miss_you.jpg",
+            info: {
+                De: "bod [包家巷]",                
+                Música: "i don't miss u"
+            }
+        },
     ]
   }
 ];
